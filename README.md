@@ -18,11 +18,13 @@ TOKEN="***************************************"
 
 
 You must run the following command to install the necessary packages:
+
 -> npm install @octokit/request @octokit/rest dotenv inquirer request
 
 Then edit the .env file with the correct information.
 
 Once installed successfully run:
+
 -> node index.js
 
 Once the script has completed running it will result in complete.
