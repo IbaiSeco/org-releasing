@@ -1,0 +1,28 @@
+{
+  "name": "gitag",
+  "version": "1.0.0",
+  "description": "'git tag' command tool to loop through and update tags on all repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "tag"
+  ],
+  "author": "Ibai Seco",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/request": "^4.1.0",
+    "@octokit/rest": "^16.26.0",
+    "dotenv": "^8.0.0",
+    "gitlab": "^5.0.1",
+    "inquirer": "^6.3.1",
+    "lodash": "^4.17.11",
+    "nodegit": "^0.24.3",
+    "request": "^2.88.0",
+    "simple-git": "^1.113.0",
+    "spinner": "^0.3.4",
+    "touch": "^3.1.0"
+  }
+}
