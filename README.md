@@ -22,7 +22,7 @@ TOKEN="***************************************"
 ## Running it
 You must run the following command to install the necessary packages:
 ```
-$ npm install @octokit/request @octokit/rest dotenv inquirer request chalk
+$ npm install
 ```
 
 Then edit the .env file with the correct information. See *How to Implement Environment Variables* for help.
