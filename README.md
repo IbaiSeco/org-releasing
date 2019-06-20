@@ -49,7 +49,7 @@ $ Delete cancelled
 
 If the action has been cancelled using the confirmation step.
 
-#### New Release Fucntion
+#### New Release Function
 
 If new release function is selected: you will be prompted to enter the information necessary to be tagged among all of the repos in the organization that you have selected and entered into the `.env` file.
 
